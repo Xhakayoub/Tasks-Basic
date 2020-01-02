@@ -1,19 +1,9 @@
 {
   "Tasks": [
     {
-      "id": 1,
-      "label": "Learn Angular",
-      "completed": false
-    },
-    {
-      "id": 3,
-      "label": "Learn Symfony",
-      "completed": false
-    },
-    {
       "id": 4,
-      "label": "Learn Bootstrap",
-      "completed": true
+      "label": "Learn Bootstrap 4",
+      "completed": false
     },
     {
       "id": 6,
@@ -26,9 +16,14 @@
       "id": 7
     },
     {
-      "label": "Learn AJAX",
-      "completed": false,
+      "label": "Learn AJAX 4",
+      "completed": true,
       "id": 8
+    },
+    {
+      "label": "Learn Spring Boot",
+      "completed": true,
+      "id": 9
     }
   ]
 }
